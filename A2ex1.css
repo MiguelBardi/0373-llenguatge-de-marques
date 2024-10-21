@@ -1,0 +1,39 @@
+ h1 {
+    color: blue;
+    font: arial;
+ }
+ h2{
+    color: #cc22ff;
+    font: arial;
+ }
+ h3{
+    color: #cc22ff;
+    font: arial;
+ }
+ body{
+    font:1.2em serif;
+    background-color: #fddaef;
+ }
+ p{
+    line-height: 125%;
+ }
+ pre{
+    border: 1px solid black;
+
+ }
+ #prova_1{
+    color: yellowgreen;
+    font: serif
+ }
+ #prova_1::first-letter{
+    font-size: 300%;
+    text-decoration: underline;
+ }
+ .prova_2{
+    color: grey;
+    font: small-caption;
+ }
+.prova_3{
+    color:chocolate;
+    font: black 
+}
